@@ -1,4 +1,4 @@
-public class EmpUC2{
+public class EmpUC1{
 
 	public static final int EMP_PRESENT=1;
 	public static final int EMP_ABSENT=0;
