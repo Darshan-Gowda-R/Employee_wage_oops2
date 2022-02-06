@@ -1,4 +1,4 @@
-public class EmpUC2{
+public class EmpUC3{
 
 	public static final int EMP_WAGE_PER_HOUR = 20;
 	public static final int EMP_PART_TIME_WORK = 4;
